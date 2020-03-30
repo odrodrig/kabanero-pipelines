@@ -2,7 +2,7 @@
 apiVersion: tekton.dev/v1alpha1
 kind: Task
 metadata:
-  name: StackId-build-task
+  name: StackId-test-build-task
 spec:
   inputs:
     resources:

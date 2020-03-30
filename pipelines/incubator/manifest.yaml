@@ -1,5 +1,5 @@
 contents:
 - file: test-build-task.yaml
-  sha256: dd67b2d3e66dc6f7971d15fd315373aae846a928a72f53e531116b90631a317d
+  sha256: b8a9cbcbc5d9e42cfa5f336d38c237b5f1574ca59016f01d0e1fbe592aebd885
 - file: test-build-pl.yaml
-  sha256: 8a5ef1dc64c69e8b84d49dcc22150eeb2f906758cfa9683a0eb2b3b8107edc08
+  sha256: 606c6c44c11540c33c1155879ecfd5d9769c8939a74d838bb0e7b8705ae6d2ec

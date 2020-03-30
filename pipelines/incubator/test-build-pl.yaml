@@ -2,7 +2,7 @@
 apiVersion: tekton.dev/v1alpha1
 kind: Pipeline
 metadata:
-  name: StackId-build-pl
+  name: StackId-test-build-pl
 spec:
   params:
     - name: docker-imagename
